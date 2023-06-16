@@ -1,0 +1,7 @@
+2020-07-30 12:22:44.336 [main] INFO  c.m.t.social_server.SocialService:23 - 0.0.1
+2020-07-30 12:22:44.392 [Thread-1] INFO  org.eclipse.jetty.util.log:186 - Logging initialized @507ms
+2020-07-30 12:22:44.418 [Thread-1] INFO  spark.webserver.JettySparkServer:128 - == Spark has ignited ...
+2020-07-30 12:22:44.418 [Thread-1] INFO  spark.webserver.JettySparkServer:129 - >> Listening on 0.0.0.0:4567
+2020-07-30 12:22:44.420 [Thread-1] INFO  org.eclipse.jetty.server.Server:345 - jetty-9.3.z-SNAPSHOT
+2020-07-30 12:22:44.456 [Thread-1] INFO  o.e.jetty.server.ServerConnector:270 - Started ServerConnector@1cfe29c7{HTTP/1.1,[http/1.1]}{0.0.0.0:4567}
+2020-07-30 12:22:44.456 [Thread-1] INFO  org.eclipse.jetty.server.Server:397 - Started @574ms
